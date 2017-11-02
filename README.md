@@ -41,5 +41,5 @@ end
 - The first 5/6 minutes will be a secret and you CANNOT tell what happens in those minutes.
 - If you want to learn an specific spin you can ask me any day you want.
 - I'll ask you if you want more classes to set them up.
-- If you want to get in the mood for merengue go to this ![playlist](https://www.youtube.com/watch?v=CeQ0DYKOqFI/)
-- ![Here](https://www.youtube.com/watch?v=y2sbQVoO3os) you can watch a professional merengue dance. (I'm not in that level nor even close so don't be worry).
+- If you want to get in the mood for merengue go to this [playlist](https://www.youtube.com/watch?v=CeQ0DYKOqFI/)
+- [Here](https://www.youtube.com/watch?v=y2sbQVoO3os) you can watch a professional merengue dance. (I'm not in that level nor even close so don't be worry).
