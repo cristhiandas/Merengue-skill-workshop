@@ -1,7 +1,6 @@
 # Merengue-skill-workshop
 
-Okey everyone, so we made it through the second week (almost), and now we have the Merengue workshop, here what is going 
-to happen:
+Okey everyone, so we made it through the *-insert the week you are on-* week (almost), and now we have the Merengue workshop, so... this is what's going to happen:
 
 First, I will iterate over and over againg the "Merengue counts" Array, and will pass it as an input value.
 Then, you'll have to run a program that gets the input value and move a feet.
@@ -27,6 +26,33 @@ end
 def the_eight (This is the translation from a spin)
 end
 
+# Learning Objectives
+**Goals for the week**
+Ask yourself the same two questions:
+
+Are you having fun?
+
+Are you a better ~developer~ dancer than you were yesterday?
+
+**Primary goal**
+
+By the end of the week, the goal is to be able to answer "yes" to the week's primary question:
+
+Can you do a Basic Merengue Spin?
+
+## Concepts and skills for the week
+
+**Concepts**
+
+- Definition of Merengue.
+- Diference between Merengue and Salsa.
+- Merengue Spins
+**Skills**
+
+- Do the basic Merengue steps.
+- How to do some spins.
+- Structuring a dancing method to use for a complete song.
+
 ## You will need:
 - Confy clothes and shoes.
 - Good attitude.
@@ -37,9 +63,12 @@ end
 - Feeling embarrassed. No one was born with all the info on how to do everything, Dancing is a skill and with practice it'll become more and more natural.
 - Feeling frustrated. You don't have to catch everything at once, nobody said it was easy (~it's such a shame for us to part~).
 
-## Extra info: 
+## Extra info and resources: 
 - The first 5/6 minutes will be a secret and you CANNOT tell what happens in those minutes.
 - If you want to learn an specific spin you can ask me any day you want.
 - I'll ask you if you want more classes to set them up.
 - If you want to get in the mood for merengue go to this [playlist](https://www.youtube.com/watch?v=CeQ0DYKOqFI/)
 - [Here](https://www.youtube.com/watch?v=y2sbQVoO3os) you can watch a professional merengue dance. (I'm not in that level nor even close so don't be worry).
+
+## Walkthrough
+(Sorry, there's no easy way to learn Merengue, you will have to attend).
