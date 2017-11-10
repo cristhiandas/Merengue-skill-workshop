@@ -28,6 +28,7 @@ end
 
 # Learning Objectives
 **Goals for the week**
+
 Ask yourself the same two questions:
 
 Are you having fun?
